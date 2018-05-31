@@ -20,7 +20,7 @@ int main(){
   while ( 1 ){ /* Loop forever */
 
     /* TBD: Display prompt. */
-	printf("Welcome to the ultimate shell!\n Please enter some commands daddy:");
+	printf("Welcome to the ultimate shell!\n Please enter commands at your will Master:");
     /* TBD: Read "command" */
 	 if(!fgets(command,MAXLEN,stdin))
 	{            //check if command is exit

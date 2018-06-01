@@ -16,6 +16,7 @@ Write a Python program that will print the following:
 Create a big box out of n rows of little o's for any desired size n. 
 Use an input statement to allow the user to enter the value for n and then print the properly sized box.
 
+```
 E.g. n = 3
 oooooo
 o    o
@@ -31,12 +32,14 @@ o              o
 o              o
 oooooooooooooooo
 
+```
+
 6.3 Part 3
 This part of the lab is difficult. Skip to part 4 if you aren't interested in the challenge.
 
 Print the following for any positive integer n. 
 Use an input statement to allow the user to enter the value for n and then print the properly sized box.
-
+```
 E.g. n = 3
  
 1 3 5 5 3 1
@@ -57,6 +60,8 @@ E.g. n = 5
 5 7 9         9 7 5
 3 5 7 9     9 7 5 3
 1 3 5 7 9 9 7 5 3 1
+
+```
 
 Don't worry about handling the spacing for multi-digit numbers. Chapter 20 covers this if you want to look ahead, but it isn't needed.
 

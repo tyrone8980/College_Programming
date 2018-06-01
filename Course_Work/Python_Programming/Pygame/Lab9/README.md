@@ -21,12 +21,17 @@ You should get this result:
 4
 -100
 A
-The function should return the value, not print the value. Also, while there is a min function built into Python, don't use it. Please use if statements and practice creating it yourself. Leave the testing statements in the program so the instructor can check the program. If you also get None to print out, then chances are you are using print instead of return in your function.
+The function should return the value, not print the value. 
+Also, while there is a min function built into Python, don't use it. 
+Please use if statements and practice creating it yourself. 
+Leave the testing statements in the program so the instructor can check the program. 
+If you also get None to print out, then chances are you are using print instead of return in your function.
 ```
 #### Part 2
 
 ```
-(5 pts) Write a function called box that will output boxes given a height and width. Once you've finished writing your function, copy and paste the following code after it and make sure it works with the function you wrote:
+(5 pts) Write a function called box that will output boxes given a height and width. 
+Once you've finished writing your function, copy and paste the following code after it and make sure it works with the function you wrote:
 box(7,5)  # Print a box 7 high, 5 across
 print()   # Blank line
 box(3,2)  # Print a box 3 high, 2 across
@@ -54,8 +59,13 @@ You should get the following results from the sample code:
 #### Part 3
 
 ```
-(5 pts) Write a function called find that will take a list of numbers, my_list, along with one other number, key. Have it search the list for the value contained in key. Each time your function finds the key value, print the array position of the key. You will need to juggle three variables, one for the list, one for the key, and one for the position of where you are in the list.
-This code will look similar to the Chapter 7 code for iterating though a list using the range and len functions. Start with that code and modify the print to show each element and its position. Then instead of just printing each number, add an if statement to only print the ones we care about.
+(5 pts) Write a function called find that will take a list of numbers, my_list, along with one other number, key.
+Have it search the list for the value contained in key. 
+Each time your function finds the key value, print the array position of the key. 
+You will need to juggle three variables, one for the list, one for the key, and one for the position of where you are in the list.
+This code will look similar to the Chapter 7 code for iterating though a list using the range and len functions. 
+Start with that code and modify the print to show each element and its position. 
+Then instead of just printing each number, add an if statement to only print the ones we care about.
 
 Copy/paste this code to test it:
 
@@ -69,7 +79,9 @@ find(my_list, 80)
 Found 12 at position 11
 Found 12 at position 13
 Found 91 at position 5
-Use a for loop with an index variable and a range. Inside the loop use an if statement. The function can be written in about four lines of code.
+Use a for loop with an index variable and a range. 
+Inside the loop use an if statement. 
+The function can be written in about four lines of code.
 ```
 
 #### Part 4
@@ -77,7 +89,10 @@ Use a for loop with an index variable and a range. Inside the loop use an if sta
 ```
 Write one program that has the following:
 (15 pts, 5 for each function) Functions:
-Write a function named create_list that takes in a list size and returns a list of random numbers from 1-6. i.e., calling create_list(5) should return 5 random numbers from 1-6. (Remember, Chapter 7 has code showing how to do something similar, creating a list out of five numbers the user enters. Here, you need to create random numbers rather than ask the user.) 
+Write a function named create_list that takes in a list size and returns a list of random numbers from 1-6. i.e.,
+calling create_list(5) should return 5 random numbers from 1-6. 
+(Remember, Chapter 7 has code showing how to do something similar, creating a list out of five numbers the user enters. Here, you need to create random numbers rather than ask the user.) 
+
 To test, use this code against the function you wrote:
 my_list = create_list(5)
 print(my_list)

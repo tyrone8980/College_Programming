@@ -4,7 +4,8 @@ Hofstra University
 Extra-Curricular Course Work
 
 Developer: 
-Tyrone Harmon 
+Tyrone Harmon Jr. 
+<img src="https://github.com/tyrone8980/College_Programming/blob/master/ZMedia/music_program_exampe.gif" alt="Music Program" title="Music Program" />
 
 ### Description: 
 

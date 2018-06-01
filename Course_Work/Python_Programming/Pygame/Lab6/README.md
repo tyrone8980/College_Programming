@@ -1,6 +1,6 @@
 # Lab 6 Loopy Lab
 Write a Python program that will print the following:
-
+```
 10
 11 12
 13 14 15
@@ -10,7 +10,7 @@ Write a Python program that will print the following:
 31 32 33 34 35 36 37
 38 39 40 41 42 43 44 45
 46 47 48 49 50 51 52 53 54
-
+```
 
 6.2 Part 2
 Create a big box out of n rows of little o's for any desired size n. 

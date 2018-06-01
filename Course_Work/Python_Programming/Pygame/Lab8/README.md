@@ -13,5 +13,5 @@ Move in circles.
 Have a person wave his/her arms.
 Create a stoplight that changes colors.
 
-
+Developer Tyrone Harmon's Program Example:
 <img src="https://github.com/tyrone8980/College_Programming/blob/master/ZMedia/lab8.gif" alt="Lab8" title="Lab8" />

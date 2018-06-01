@@ -10,3 +10,6 @@ You must use multiple types of graphic functions (e.g. circles, rectangles, line
 You must use a while or for loop to create a repeating pattern. Do not just redraw the same thing in the same location 10 times.
 Actually use that index variable as an offset to displace what you are drawing. 
 Remember that you can contain multiple drawing commands in a loop, so you can draw multiple train cars for example.
+
+
+<img src="https://github.com/tyrone8980/College_Programming/blob/master/ZMedia/lab5.PNG" alt="Lab5" title="Lab5" />

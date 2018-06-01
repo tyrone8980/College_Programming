@@ -13,4 +13,5 @@ This is the checklist for completing this lab:
 * Include some kind of bit-mapped graphics. Do not include bit-mapped graphics as part of your “draw with a function.” 
 * Include sound. You could make a sound when the user clicks the mouse, hits a key, moves to a certain location, etc. If the sound is problematic, try using the program Audacity to load the sound, and then export it as a .ogg file.
 
+Developer Tyrone Harmon's Program Example:
 <img src="https://github.com/tyrone8980/College_Programming/blob/master/ZMedia/lab11.gif" alt="Lab11" title="Lab11" />

@@ -11,5 +11,5 @@ You must use a while or for loop to create a repeating pattern. Do not just redr
 Actually use that index variable as an offset to displace what you are drawing. 
 Remember that you can contain multiple drawing commands in a loop, so you can draw multiple train cars for example.
 
-
+Developer Tyrone Harmon's Program Example:
 <img src="https://github.com/tyrone8980/College_Programming/blob/master/ZMedia/lab5.PNG" alt="Lab5" title="Lab5" />
